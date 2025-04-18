@@ -46,7 +46,7 @@ A modern, feature-rich food delivery application built with Flutter, providing a
 | Category | Technology |
 |----------|------------|
 | Framework | Flutter 2.10.0 |
-| State Management | Provider |
+| State Management | BLoC |
 | Backend | Firebase |
 | Maps | Google Maps |
 | Payment | Stripe |
@@ -90,13 +90,5 @@ This project is part of my portfolio to showcase my skills in:
 - Security Implementation
 - Performance Optimization
 
-## 🤝 Contact
-
-For inquiries about this project, please contact me through:
-- Portfolio Website: [Your Website]
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
-
----
 
 *This project is for portfolio purposes only. All rights reserved.*
